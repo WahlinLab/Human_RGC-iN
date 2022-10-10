@@ -10,9 +10,9 @@ This repository contains code used for quality control and data analysis present
 
 Data is available in NCBI Sequence Read Archive (SRA) under the BioProject accession # PRJNA885885 (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA885885).
 
-## Software used
+## Packages used
 
-| Software | Version | URL | 
+| Package | Version | URL | 
 | --- | --- | --- |
 | FastQC | 0.11.5 | http://www.bioinformatics.babraham.ac.uk/projects/fastqc/ |
 | MultiQC | 1.11 | https://multiqc.info|
