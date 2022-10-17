@@ -1,3 +1,4 @@
+# This script was adapted from a script provided by the Intergalactic Utilities Commission (IUC)
 
 # Load packages -----------------------------------------------------------
 
