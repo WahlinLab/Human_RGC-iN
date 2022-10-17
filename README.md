@@ -1,8 +1,10 @@
-# Agarwal et al., Cell Stem Cell 2022
+# Agarwal & Dash et al., Cell Stem Cell 2022
 
 This repository contains code used for quality control and data analysis presented in: 
 
-> **Dash N, Agarwal D, Mazo KW, Chopra M, Garcia MPA, Patel A, Wong RM, Jia C, Do H, Kim GE, Chiang C, Jurlina SL, Perry M, Rho J, Broyer R, Lee C, Weinreb RN, Gavrilovici C, Oesch NW, Welsbie DS, Wahlin KJ. Highly Efficient Human Retinal Ganglion Cell Neuron Generation by Transcription Factor Induced Cellular Reprogramming and BMP Inhibition for Evaluating Neuroprotection. Cell Stem Cell 2022 (in prep).**
+> **Devansh Agarwal, Nicholas Dash, Kevin W. Mazo, Manan Chopra, Maria PA. Garcia, Amit Patel, Ryan M. Wong,
+Cairang Jia, Hope Do, Jie Cheng, Colette Chiang, Shawna L. Jurlina, Mike Perry, Jong Rho, Risa Broyer, Cassidy
+Lee, Robert N. Weinreb, Cezar Gavrilovici, Nic W. Oesch, Derek S. Welsbie, Karl J. Wahlin. Highly Efficient Human Retinal Ganglion Cell Neuron Generation by Transcription Factor Induced Cellular Reprogramming and BMP Inhibition for Evaluating Neuroprotection. Cell Stem Cell 2022 (in prep).**
 
 ----
 
