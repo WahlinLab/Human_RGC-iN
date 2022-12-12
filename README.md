@@ -1,4 +1,4 @@
-# Agarwal & Dash et al., Cell Stem Cell 2022
+# Agarwal & Dash et al., 2022
 
 This repository contains code used for quality control and data analysis presented in: 
 
