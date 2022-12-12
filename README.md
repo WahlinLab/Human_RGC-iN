@@ -4,7 +4,7 @@ This repository contains code used for quality control and data analysis present
 
 > **Devansh Agarwal, Nicholas Dash, Kevin W. Mazo, Manan Chopra, Maria PA. Garcia, Amit Patel, Ryan M. Wong,
 Cairang Jia, Hope Do, Jie Cheng, Colette Chiang, Shawna L. Jurlina, Mike Perry, Jong Rho, Risa Broyer, Cassidy
-Lee, Robert N. Weinreb, Cezar Gavrilovici, Nick W. Oesch, Derek S. Welsbie, Karl J. Wahlin. Highly Efficient Human Retinal Ganglion Cell Neuron Generation by Transcription Factor Induced Cellular Reprogramming and BMP Inhibition for Evaluating Neuroprotection. Cell Stem Cell 2022 (in prep).**
+Lee, Robert N. Weinreb, Cezar Gavrilovici, Nick W. Oesch, Derek S. Welsbie, Karl J. Wahlin. Highly Efficient Human Retinal Ganglion Cell Neuron Generation by Transcription Factor Induced Cellular Reprogramming and BMP Inhibition for Evaluating Neuroprotection. 2022 (in prep).**
 
 ----
 
