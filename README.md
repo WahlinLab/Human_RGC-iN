@@ -23,4 +23,3 @@ Data is available in NCBI Sequence Read Archive (SRA) under the BioProject acces
 | DESeq2 | 1.36 | http://www.bioconductor.org/packages/release/bioc/html/DESeq2.html |
 | scanpy | 1.9.1 | https://scanpy.readthedocs.io/en/stable/ |
 | scanorama | 1.7.3 | https://cb.csail.mit.edu/cb/scanorama/ |
-| scvi-tools | 0.20.3 | https://scvi-tools.org/ |
