@@ -8,11 +8,11 @@ Lee, Robert N. Weinreb, Cezar Gavrilovici, Nick W. Oesch, Derek S. Welsbie, Karl
 
 ----
 
-## Data availability
+## Data Availability
 
-Data is available in NCBI Sequence Read Archive (SRA) under the BioProject accession # [PRJNA885885](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA885885).
+Raw sequencing data is available in NCBI Sequence Read Archive (SRA) under the BioProject accession # [PRJNA885885](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA885885).
 
-## Packages used
+## Main Packages Used
 
 | Package | Version | URL | 
 | --- | --- | --- |
@@ -23,6 +23,8 @@ Data is available in NCBI Sequence Read Archive (SRA) under the BioProject acces
 | DESeq2 | 1.36 | http://www.bioconductor.org/packages/release/bioc/html/DESeq2.html |
 | scanpy | 1.9.1 | https://scanpy.readthedocs.io/en/stable/ |
 | scanorama | 1.7.3 | https://cb.csail.mit.edu/cb/scanorama/ |
+
+For a full list of required packages please see bulk_requirements.txt and singlecell_requirements.txt
 
 ## Reference Data
 
