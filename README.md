@@ -10,7 +10,7 @@ Lee, Robert N. Weinreb, Cezar Gavrilovici, Nick W. Oesch, Derek S. Welsbie, Karl
 
 ## Data Availability
 
-Raw sequencing data is available in NCBI Sequence Read Archive (SRA) under the BioProject accession # [PRJNA885885](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA885885).
+Raw sequencing data is available in NCBI Sequence Read Archive (SRA) under the BioProject accession # [PRJNA885885](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA885885) and [PRJNA973095](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA973095).
 
 ## Main Packages Used
 
