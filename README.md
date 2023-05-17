@@ -12,7 +12,7 @@ Lee, Robert N. Weinreb, Cezar Gavrilovici, Nick W. Oesch, Derek S. Welsbie, Karl
 
 Raw sequencing data is available in NCBI Sequence Read Archive (SRA) under the BioProject accession # [PRJNA885885](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA885885) and [PRJNA973095](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA973095).
 
-## Main Packages Used
+## Main Tools/Packages Used
 
 | Package | Version | URL | 
 | --- | --- | --- |
@@ -21,7 +21,7 @@ Raw sequencing data is available in NCBI Sequence Read Archive (SRA) under the B
 | HISAT2-index-align | 2.2.1 | http://daehwankimlab.github.io/hisat2/ |
 | featureCounts | 2.0.3 | http://subread.sourceforge.net/ |
 | DESeq2 | 1.36 | http://www.bioconductor.org/packages/release/bioc/html/DESeq2.html |
-| PIPseeker | 2.0 | https://www.fluentbio.com/resources/pipseeker-downloads/ |
+| PIPseeker | 2.1 | https://www.fluentbio.com/resources/pipseeker-downloads/ |
 | scanpy | 1.9.1 | https://scanpy.readthedocs.io/en/stable/ |
 | scanorama | 1.7.3 | https://cb.csail.mit.edu/cb/scanorama/ |
 
