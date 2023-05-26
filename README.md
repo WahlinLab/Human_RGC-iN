@@ -34,3 +34,4 @@ This work also utilizes data from the following publications:
 1. Lu, Y. et al. Single-Cell Analysis of Human Retina Identifies Evolutionarily Conserved and Species-Specific Mechanisms Controlling Development. *Developmental Cell* **53**, 473-491.e9 (2020). https://doi.org/10.1016/j.devcel.2020.04.009.
 2. Sridhar, A. et al. Single-Cell Transcriptomic Comparison of Human Fetal Retina, hPSC-Derived Retinal Organoids, and Long-Term Retinal Cultures. *Cell Reports* **30**, 1644-1659.e4 (2020). https://doi.org/10.1016/j.celrep.2020.01.007.
 3. Gudiseva, H. V. et al. Single Cell Sequencing of Induced Pluripotent Stem Cell Derived Retinal Ganglion Cells (iPSC-RGC) Reveals Distinct Molecular Signatures and RGC Subtypes. *Genes* **12**, 2015 (2021). https://doi.org/10.3390/genes12122015.
+4. Liang, Q. et al. A multi-omics atlas of the human retina at single-cell resolution. *Cell Genomics* **100298** (2023) https://doi.org/10.1016/j.xgen.2023.100298.
