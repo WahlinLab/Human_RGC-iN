@@ -24,6 +24,7 @@ Raw sequencing data is available in NCBI Sequence Read Archive (SRA) under the B
 | PIPseeker | 2.1 | https://www.fluentbio.com/resources/pipseeker-downloads/ |
 | scanpy | 1.9.1 | https://scanpy.readthedocs.io/en/stable/ |
 | scanorama | 1.7.3 | https://cb.csail.mit.edu/cb/scanorama/ |
+| scvi-tools | 0.20.3 | https://docs.scvi-tools.org/en/stable/ |
 
 For a full list of required packages please see bulk_requirements.txt and singlecell_requirements.txt
 
