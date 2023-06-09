@@ -1,4 +1,4 @@
-# Agarwal & Dash et al., 2022
+# Agarwal & Dash et al., 2023
 
 This repository contains code used for quality control and data analysis presented in: 
 
