@@ -42,6 +42,9 @@ We recommend using the miniconda package manager to run the notebooks in this re
 6. **Important note for working with the Liang dataset**  
      For some scripts, data from Liang et. al. 2023 is used. This data is not included in the repository, and must be downloaded separately. For instructions, please see the ``README.md`` file located at ``~/Human_RGC-iN/sc_data/liang_adult_rgcs/``.
 
+7. **Working with R Scripts**  
+     To work with the R scripts in this repository, we recommend downloading [RStudio](https://posit.co/download/rstudio-desktop/). Once downloaded, open the ``.R`` file using RStudio to run. [Here](https://www.geeksforgeeks.org/creation-and-execution-of-r-file-in-r-studio/) is a quick tutorial to help get started. 
+
    
 
 ## Data Availability
