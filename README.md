@@ -86,4 +86,4 @@ kwahlin[at]health[dot]ucsd[dot]edu
 
 **Bioinformatics Graduate Student**  
 Manan Chopra  
-m1chopra[at]ucsd[dot]edu
+manan[dot]zchopta[at]gmail[dot]com
